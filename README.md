@@ -42,12 +42,6 @@ Our analysis shows a strong correlation between district purchase prices and pot
 *   **Medium-Medium**: Balanced risk/reward.
 *   **Low-Low**: Lower entry barrier, moderate revenue.
 
-*(Placeholders for Project Visualizations - Please insert chart screenshots from `04_Analysis_and_insights.ipynb` here)*
-
-| Price vs. Revenue Correlation | Top Neighborhoods Performance |
-|:-----------------------------:|:-----------------------------:|
-| ![Price vs Revenue](path/to/plot1.png) | ![Neighborhoods](path/to/plot2.png) |
-
 ---
 
 ## 🛠️ Repository Structure
